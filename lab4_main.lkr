@@ -1,0 +1,6 @@
+path=C:\Users\17782\Downloads\School Resources\UBC Y2\ELEC\ELEC 291\Lab4\call51\call51\Bin\..\lib\small
+lib=libc51.lib
+lib=libint.lib
+lib=liblong.lib
+lib=libfloat.lib
+obj=lab4_main.obj
