@@ -258,9 +258,9 @@ void main (void)
 			LCDprint("no capacitor", 2, 1);
 		}
 		
-		sprintf(buffer, "%f uF", c);
+		sprintf(buffer, "%e uF", c);
  
-        LCDprint(buffer, 2, 1);
+        	LCDprint(buffer, 2, 1);
 		
 		printf("\rf=%luHz\n", F);
 		printf("%s\n", buffer);
